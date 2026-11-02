@@ -20,6 +20,17 @@ QA Team Lead transitioning into software development and AI. Passionate about bu
 😄 &nbsp;Pronouns: **She/Her**  
 ⚡ &nbsp;Fun fact: **I spend my days finding problems in processes and my free time learning how to solve them with code. 🐝**
 
+### 🧩 Selected Projects & Contributions
+
+- 🐝 **[Bee Budget](https://github.com/beafuentes-1/bee-budget)** — A private, cross-device budgeting companion with monthly cash-flow planning, recurring expenses, savings goals, and transparent rules-based guidance. Built with React, TypeScript, Cloudflare Workers, D1, and Drizzle ORM. *(Private repository)*
+- 🤖 **Keen-Borg / group5-cuboai** — A collaborative, local-first business assistant project focused on reliable financial workflows, offline durability, and practical AI-assisted operations. *(Private team repository)*
+- 🧪 **[SuckLess](https://github.com/CUBO-IA/SuckLess)** — Contributed backend API routes, automated tests, project documentation, navigation fixes, and Code & Review API improvements through GitHub pull requests.
+- 🐍 **[CUBO AI Python](https://github.com/beafuentes-1/cubo_ai_python)** — Python exercises and experiments created while building practical development and AI foundations.
+- 🌐 **CUBO AI Workshop Website** — Designed and developed a Spanish-language workshop landing page. *(Private repository)*
+- 🤝 **[gh-uees](https://github.com/wmoralesdev/gh-uees)** — Contributed to a shared static-site repository through a merged pull request and Git/GitHub collaboration workflow.
+
+> I also build QA and Google Workspace automations for real operational workflows. Some internal and experimental projects are not publicly available on GitHub.
+
 ### 🛠️ Tech Stack
 
 <p align="left">
